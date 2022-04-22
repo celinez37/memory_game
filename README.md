@@ -6,7 +6,7 @@ Submitted by: **Celine Zhao**
 
 Time spent: **10** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com/edit/#!/believed-flashy-paint)
+Link to project: (https://glitch.com/edit/#!/believed-flashy-paint)
 
 ## Required Functionality
 
@@ -46,7 +46,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
+[I watched videos on youtube and asked my friend to understand the basic components of web development.]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 [YOUR ANSWER HERE]
